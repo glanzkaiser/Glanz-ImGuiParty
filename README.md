@@ -7,4 +7,4 @@ Note: I do not create any of the visual effect, just the gallery to hold 5 visua
 
 It is working on GFreya OS with ImGui 1.90.9, OpenGL 3.3 and GLFW.
 
-<img src="https://github.com/glanzkaiser/Glanz-ImGuiParty/blob/main/images/1.png" width="83%">
+<img src="https://github.com/glanzkaiser/Glanz-ImGuiParty/blob/main/1.png" width="83%">
