@@ -15,7 +15,7 @@ The main source code is `main.cpp` and `fx.inl` is for the visual effects. You c
 
 # How to Run
 
-Type in the working directory, if you clone this repository then this is the working directory.
+Type from the terminal that is opened in the working directory, if you clone this repository then this is the working directory.
 ```
 cd examples/Party
 make
